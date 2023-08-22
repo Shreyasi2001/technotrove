@@ -3,7 +3,7 @@
 Endpoints
 
 GET
-http://localhost:8080/api
+http://localhost:8080/api \\
 http://localhost:8080/api/category/{Id}
 http://localhost:8080/api/product/{productId}
 http://localhost:8080/api/productVariant/find/{prodVarId}
