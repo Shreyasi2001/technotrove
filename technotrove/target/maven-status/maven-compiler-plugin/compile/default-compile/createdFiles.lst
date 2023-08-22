@@ -1,0 +1,14 @@
+com/example/technotrove/Service/ProductService.class
+com/example/technotrove/Controller/ProductController.class
+com/example/technotrove/Repository/CategoryRepository.class
+com/example/technotrove/Controller/MainController.class
+com/example/technotrove/Repository/ProductRepository.class
+com/example/technotrove/Controller/CategoryController.class
+com/example/technotrove/TechnotroveApplication.class
+com/example/technotrove/Service/ProductVariantService.class
+com/example/technotrove/Service/CategoryService.class
+com/example/technotrove/Model/ProductVariant.class
+com/example/technotrove/Controller/ProductVariantController.class
+com/example/technotrove/Model/Category.class
+com/example/technotrove/Model/Product.class
+com/example/technotrove/Repository/ProductVariantRepository.class
