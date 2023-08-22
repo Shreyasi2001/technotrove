@@ -3,14 +3,17 @@
 Endpoints
 
 GET
+
 http://localhost:8080/api <br>
-http://localhost:8080/api/category/{Id}
-http://localhost:8080/api/product/{productId}
-http://localhost:8080/api/productVariant/find/{prodVarId}
+http://localhost:8080/api/category/{Id} <br>
+http://localhost:8080/api/product/{productId} <br>
+http://localhost:8080/api/productVariant/find/{prodVarId} <br>
 
 POST
-http://localhost:8080/api/productVariant/add
 
+http://localhost:8080/api/productVariant/add <br>
+
+```
 {
   "id": 122,
   "sku": "kkk111",
@@ -22,3 +25,4 @@ http://localhost:8080/api/productVariant/add
     "quantity": 35,
     "productId": 5
 }
+```
